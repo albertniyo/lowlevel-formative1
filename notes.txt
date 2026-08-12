@@ -1,0 +1,15 @@
+Facilitator's feedback:
+
+- Program lifecyle and compilation:
+The program compiles and correctly performs a formatted kilometer-to-miles calculation, and the submission explains the real-world application and compilation stages adequately, but the semantic-error example is incorrect (an undeclared function is primarily a declaration/compilation issue), the prompt asks for the main stages rather than five, and the linking/output explanation is somewhat incomplete.
+
+
+- Control flow and repetition:
+The submission correctly implements appropriate variables, a while loop, if/else if conditionals, break, and continue with clear repeated menu execution and exit handling, but loses minor marks because it lacks the required sample input/output and does not handle division by zero or non-numeric input.
+
+- funcs and recursion:
+The submission correctly implements recursive Euclid’s GCD with a clear base case and reuses gcd() within lcm(), but loses marks because the program has limited modularity with only two substantive functions and the recursion explanation is somewhat superficial and contains an inaccurate claim that recursion works only for recursive problems.
+
+For embedded systems project and integration&reflection: nothing shared
+
+
