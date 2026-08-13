@@ -10,6 +10,8 @@ The submission correctly implements appropriate variables, a while loop, if/else
 - funcs and recursion:
 The submission correctly implements recursive Euclid’s GCD with a clear base case and reuses gcd() within lcm(), but loses marks because the program has limited modularity with only two substantive functions and the recursion explanation is somewhat superficial and contains an inaccurate claim that recursion works only for recursive problems.
 
-For embedded systems project and integration&reflection: nothing shared
+- embedded systems project:
+The submission correctly integrates the photoresistor, Arduino Uno, and LED with a clear data-flow explanation and matching threshold-based control code, and the referenced block/circuit diagrams and simulation repository complete the design, with only a minor concern that the use of INPUT_PULLUP is not clearly justified for the voltage-divider sensor configuration.
 
-
+- and integration&reflection:
+The submission clearly connects control flow, modular functions, and embedded-system hardware using the controlled-light example, explaining how they collectively process inputs and control physical outputs, with only minor omissions in precisely describing their technical interaction.
